@@ -15,16 +15,16 @@ I am a Molecular Biologist interested in genome data analysis. I have developed 
 Selected Publications
 ------
 ### Unraveling the genetic landscape of undiagnosed cerebellar ataxia in Brazilian patients
-## Parkinsonism & Related Disorders
-# February 2024
+#### Parkinsonism & Related Disorders
+#### February 2024
 Luiz Eduardo Novis, Shahryar Alavi, David Pellerin, Marcus Vinicius Della Coleta, Salmo Raskin, Mariana Spitz, Andrea Cortese, Henry Houlden, Helio Afonso Teive
 
 ### A recurrent homozygous missense DPM3 variant leads to muscle and brain disease
-## Clinical Genetics
-# August 2022
+#### Clinical Genetics
+#### August 2022
 Sara Nagy, Tracy Lau, Shahryar Alavi, Ehsan Ghayoor Karimiani, Jalal Vallian, Bobby G Ng, Samaneh Noroozi Asl, Javad Akhondian, Amir Bahreini, Omid Yaghini, Prech Uapinyoying, Carsten Bonnemann, Hudson H Freeze, Vajira HW Dissanayake, Nirmala D Sirisena, Miriam Schmidts, Henry Houlden, Andres Moreno‐De‐Luca, Reza Maroofian
 
 ### A novel carcinogenic PI3Kα mutation suggesting the role of helical domain in transmitting nSH2 regulatory signals to kinase domain
-## Life Sciences
-# March 2021
+#### Life Sciences
+#### March 2021
 Safoura Ghalamkari, Shahryar Alavi, Hamidreza Mianesaz, Farinaz Khosravian, Amir Bahreini, Mansoor Salehi
