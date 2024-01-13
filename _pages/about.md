@@ -1,18 +1,21 @@
 ---
 permalink: /
-title: "About"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-markdown_extensions:
-  - attr_list
 ---
 
-I am a Molecular Biologist interested in genome data analysis. I have developed two algortihms for exome data analysis:
-1- PalinDepth: for detection of CNVs from exome data.
-2- PalinVar: a point based system for classification of exome short variants based on the ACMG guideline
+I am a Molecular Biologist, interested in genome data analysis. I have developed two algortihms for exome data analysis:
+* **PalinDepth**: CNV detection
+* **PalinVar**: a point based system for ACMG-based classification of short variants
+
+
+Also, I have created a tool for haplotype analysis of ROH regions from exome data.
+
+<br>
 
 Selected Publications
 ------
