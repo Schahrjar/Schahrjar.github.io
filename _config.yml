@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shahryar Alavi"
 title_separator          : "-"
 name                     : &name "Shahryar Alavi"
-description              : &description "Genome data analyser at Iran and UK 🇬🇧🇮🇷"
+description              : &description "Genome data analyser at Iran and UK"
 url                      : https://schahrjar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Schahrjar/Schahrjar.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Shahryar"
   avatar           : "Shahryar.jpeg"
   bio              : "Research assistant at UCL IoN"
-  location         : "Isfahan, Iran"
+  location         : "London, UK"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Alavi+Shahryar&cauthor"
   googlescholar    : "https://scholar.google.com/citations?user=h9ZOe5gAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Schahrjar"
   google_plus      :
   keybase          :
   instagram        :
