@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shahryar Alavi"
 title_separator          : "-"
 name                     : &name "Shahryar Alavi"
-description              : &description "Genome data analyser at 🇬🇧🇮🇷"
+description              : &description "Genome data analyser at Iran and UK 🇬🇧🇮🇷"
 url                      : https://schahrjar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Schahrjar/Schahrjar.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : Schahrjar
 facebook:
   username               :
   app_id                 :
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Shahryar"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research assistant at UCL IoN"
   location         : "Isfahan, Iran"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Alavi+Shahryar&cauthor"
   googlescholar    : "https://scholar.google.com/citations?user=h9ZOe5gAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "s.alavi@ucl.ac.uk"
+  researchgate     : "https://www.researchgate.net/profile/Shahryar-Alavi"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
