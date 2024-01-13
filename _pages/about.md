@@ -15,8 +15,6 @@ I am a Molecular Biologist, interested in genome data analysis. I have developed
 
 Also, I have created a tool for haplotype analysis of ROH regions from exome data.
 
-<br>
-
 ## Selected Publications
 ### Unraveling the genetic landscape of undiagnosed cerebellar ataxia in Brazilian patients
 **Parkinsonism & Related Disorders; February 2024** [***Full text***](https://www.prd-journal.com/article/S1353-8020(23)01040-4/fulltext) \
