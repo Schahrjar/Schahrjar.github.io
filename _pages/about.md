@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+markdown_extensions:
+  - attr_list
 ---
 
 I am a Molecular Biologist interested in genome data analysis. I have developed two algortihms for exome data analysis:
