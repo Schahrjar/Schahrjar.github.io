@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-A Molecular Biologist I am, experienced in genome data analysis. Founding [Palindrome](https://palinlab.com/) in Iran, I have developed two algortihms for exome data analysis, which resolved tens of undiagnosed cases:
+A Molecular Biologist, experienced in genome data analysis. Founding [Palindrome](https://palinlab.com/) in Iran, I have developed two algortihms for exome data analysis, which resolved tens of undiagnosed cases:
 * **PalinDepth**: a CNV detection tool
 * **PalinVar**: a point based scoring system for ACMG-based classification of short variants
 
