@@ -14,6 +14,9 @@ A Molecular Biologist I am, experienced in genome data analysis. Founding [Palin
 
 
 Detecting common pathogenic variants by analysing thousands of exomes from distant families, I created a tool for haplotype analysis of ROH regions from exome data. This uncovers if such variants are founder, i.e. inherited from the same ancestor, or recurrent.
+<br>
+<br>
+Recently I screened hundreds of exomes for STR expansions in neuromuscular patients from different ethnic groups. Creating a reference panel of STR loci is my ongoing project.
 
 ## Selected Publications
 ### Unraveling the genetic landscape of undiagnosed cerebellar ataxia in Brazilian patients
