@@ -20,10 +20,10 @@ Recently I screened hundreds of exomes for STR expansions in neuromuscular patie
 
 ## Selected Publications
 ### Unraveling the genetic landscape of undiagnosed cerebellar ataxia in Brazilian patients
-*Parkinsonism & Related Disorders; February 2024* [*Full text*](https://www.prd-journal.com/article/S1353-8020(23)01040-4/fulltext)
+*Parkinsonism & Related Disorders; 2024* [*article*](https://www.prd-journal.com/article/S1353-8020(23)01040-4/fulltext)
 
 ### A recurrent homozygous missense DPM3 variant leads to muscle and brain disease
-*Clinical Genetics; August 2022* [*Full text*](https://onlinelibrary.wiley.com/doi/full/10.1111/cge.14208)
+*Clinical Genetics; 2022* [*article*](https://onlinelibrary.wiley.com/doi/full/10.1111/cge.14208)
 
 ### A novel carcinogenic PI3Kα mutation suggesting the role of helical domain in transmitting nSH2 regulatory signals to kinase domain
-*Life Sciences; March 2021* [*Full text*](https://www.sciencedirect.com/science/article/abs/pii/S0024320520315125)
+*Life Sciences; 2021* [*article*](https://www.sciencedirect.com/science/article/abs/pii/S0024320520315125)
