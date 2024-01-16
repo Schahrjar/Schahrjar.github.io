@@ -11,7 +11,7 @@ redirect_from:
 A Molecular Biologist, experienced in genome data analysis. Founding [Palindrome](https://palinlab.com/) in Iran, I have developed two algortihms for exome data analysis, which resolved tens of undiagnosed cases: \
 **PalinDepth**: a CNV detection tool, \
 **PalinVar**: a point based scoring system for ACMG-based classification of short variants. \
-Detecting common pathogenic variants by analysing thousands of exomes from distant families, I created a tool for haplotype analysis of ROH regions from exome data. This uncovers if such variants are founder (i.e. inherited from the same ancestor) or recurrent. \
+Detecting common pathogenic variants by analysing thousands of exomes from distant families, I created a tool for haplotype analysis of ROH regions from exome data. This uncovers if such variants are founder or recurrent. \
 Recently I screened hundreds of exomes for STR expansions in neuromuscular patients with different ethnicities. Creating a reference panel of STR loci is my ongoing project.
 ## Selected Publications
 **Unraveling the genetic landscape of undiagnosed cerebellar ataxia in Brazilian patients** \
