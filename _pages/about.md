@@ -13,7 +13,7 @@ A Molecular Biologist, experienced in genome data analysis. Founding [Palindrome
 * **PalinVar**: a point based scoring system for ACMG-based classification of short variants
 
 
-Detecting common pathogenic variants by analysing thousands of exomes from distant families, I created a tool for haplotype analysis of ROH regions from exome data. This uncovers if such variants are founder, i.e. inherited from the same ancestor, or recurrent.
+Detecting common pathogenic variants by analysing thousands of exomes from distant families, I created a tool for haplotype analysis of ROH regions from exome data. This uncovers if such variants are founder (i.e. inherited from the same ancestor) or recurrent.
 <br>
 <br>
 Recently I screened hundreds of exomes for STR expansions in neuromuscular patients from different ethnic groups. Creating a reference panel of STR loci is my ongoing project.
